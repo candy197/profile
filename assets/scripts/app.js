@@ -29,7 +29,10 @@ const Portfolio = function() {
 				text: "Photoshop",
 				weight: 4
 			},
-			
+			{
+				text: "VueJs",
+				weight: 8
+			},
 		];
 		return words;
 	}
